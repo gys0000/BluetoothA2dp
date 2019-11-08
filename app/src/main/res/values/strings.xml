@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BtA2dpDemo</string>
+
+    <string name="bluetooth_is_not_supported">bluetooth is not supported</string>
+    <string name="bluetooth_enable_failure">fail to enable bluetooth</string>
+    <string name="bluetooth_enable_success">succeed to enable bluetooth</string>
+    <string name="start_scan">start scan</string>
+    <string name="scanning">scanning</string>
+    <string name="start_connect">start connect</string>
+    <string name="connecting">connecting</string>
+    <string name="connected">connect</string>
+    <string name="disconnect">disconnect</string>
+    <string name="disconnecting">disconnecting</string>
+    <string name="state_error">error</string>
+    <item type="id" name="tag_device"/>
+    <item type="id" name="tag_state"/>
+</resources>

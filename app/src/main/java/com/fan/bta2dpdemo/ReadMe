@@ -1,0 +1,22 @@
+
+本应用提供以下功能：
+第一：开启蓝牙
+第二：查找过滤掉A2DP设备
+第三：连接A2DP设备
+第四：断开连接A2DP设备
+第五：保存通过本应用连接的A2DP设备
+第六：当重新启动应用时加载已连接的设备
+
+本应用已适配如下版本
+Android6.0：机型honor8
+Android8.0：机型坚果R1
+
+本应用共包含五个java文件：
+Constants：常量值定义文件
+Utils：工具类，包含log包装，toast包装，以及sharedpreference的包装
+DeviceBean：封装BluetoothDevice, 包含device信息
+DeviceListAdapter：ListView的适配器，其中有对list列表，按钮点击事件的处理
+DeviceListActivity：应用中的唯一UI界面
+
+具体疑问可扫描头像二维码公众号提问，或者微信搜索fanfan_code，可以通过微信号找到我的公众号
+
